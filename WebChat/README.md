@@ -58,3 +58,5 @@ JAR包:在webapp/file/jar,这里放了所有用到的JAR包,方便不会maven的
 ![系统设置](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/4.png)
 系统日志
 ![系统日志](https://raw.githubusercontent.com/Amayadream/WebChat/master/src/main/webapp/file/photo/5.png)
+
+##haha
